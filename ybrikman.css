@@ -1,0 +1,337 @@
+html,body,h1,h2,p{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	text-decoration:none;
+}
+.ab a{
+	font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    padding:19px;
+    padding-top: 20px;
+    line-height: 3.5em;
+}
+.ab a:hover{
+	color:#0096cc;
+	background:#e8f8fe;
+	height:6%;
+	width:10%;
+}
+
+.writing a{
+    display:block;
+	font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 2.5%;
+    right: 24.5%;
+}
+
+.writing a:hover{
+	color:#0096cc;
+	background:#e8f8fe;
+	height:6%;
+	width:5%;
+}
+
+.speaking a{
+	font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 2.5%;
+    right:16.5%;
+}
+
+.projects a{
+	font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 2.5%;
+    right:8.5%;
+}
+
+.photos a{
+	font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 2.5%;
+    right:1.5%;
+}
+
+nav{
+	background:#f5f8fa;
+    height:50vh;
+    margin-top:-2%;
+}
+
+.ig img{
+    border-radius: 50%;
+    height: 100px;
+    position: absolute;
+    top: 12.5%;
+    right: 47.5%;
+    padding:5px;
+    border:1px solid#cecece;
+}
+
+.ig a img:hover{
+	color:black;
+	background:black;
+}
+
+.name a{
+	text-decoration: none;
+	position: absolute;
+    top: 30%;
+    right: 36%;
+    font-size: 4.5vh;
+    font-family: sans-serif;
+    color: #444343
+}
+
+.name a:hover{
+	color:#0096cc;
+}
+
+.text h2{
+	position: absolute;
+    top: 39%;
+    right: 30%;
+    font-family:serif;
+    font-size: 4vh;
+    color:grey;
+    text-align: center;
+    font-weight: 100;
+}
+
+.text a{
+	text-decoration:none;
+	color:#0096cc;
+}
+
+.text a:hover{
+	color:#44b6df;
+}
+
+.bottom h2{
+	position: absolute;
+    left: 29%;
+    top: 51%;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #3a3939;
+    line-height: 11em;
+}
+
+.bottom p{
+	position: absolute;
+    top: 75%;
+    left: 29%;
+    font-size: 18px;
+    font-family:serif;
+    color: #3a3939;
+
+}
+
+.bottom p a{
+	text-decoration:none;
+	font-family:serif;
+    color: #44b6df;
+}
+
+.bottom a:hover{
+	color:#0096cc
+}
+
+.contact h2{
+	position: absolute;
+    right:35%;
+    top: 51%;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #3a3939;
+    line-height: 11em;
+}
+
+.twt a img{
+	height: 4vh;
+    position: absolute;
+    top: 75%;
+    right: 39%;
+}
+
+.twt a p{
+	position: absolute;
+    top: 76%;
+    right: 35%;
+    color: black;
+}
+
+.twt a p:hover{
+	color:#0096cc;
+}
+
+.twt a img:hover{
+	color:#0096cc;
+}
+
+.lki a img{
+	height: 4vh;
+    position: absolute;
+    top: 79%;
+    right: 39%;
+}
+
+.lki a p{
+	position: absolute;
+    top: 80%;
+    right: 34%;
+    color: black;
+}
+
+.contact.lik a p:hover{
+	color:#0096cc;
+}
+
+.lik a img:hover{
+	color:#0096cc;
+}
+
+.fb a img{
+	height: 4vh;
+    position: absolute;
+    top: 83%;
+    right: 39%;
+}
+
+.fb a p{
+	position: absolute;
+    top: 84%;
+    right: 33.5%;
+    color: black;
+}
+
+.gplus a img{
+	position: absolute;
+    top: 86.5%;
+    right: 38.5%;
+    height: 5vh;
+}
+
+.gplus a p{
+	position: absolute;
+    top: 88%;
+    right: 34%;
+    color: black;
+}
+
+.slideshare a img{
+	position: absolute;
+    top: 91.5%;
+    right: 38.5%;
+    height: 5vh;
+}
+
+.slideshare a p{
+	position: absolute;
+    top: 92%;
+    right: 33%;
+    color: black;
+}
+
+.github a img{
+	position: absolute;
+    top: 96.5%;
+    right: 39%;
+    height: 4vh;
+}
+
+.github a p{
+	position: absolute;
+    top: 97%;
+    right: 34.5%;
+    color: black
+}
+
+.email a img{
+	position: absolute;
+    top: 100.5%;
+    right: 38.5%;
+    height: 5vh;
+}
+
+.email a p{
+	position: absolute;
+    top: 101%;
+    right: 35%;
+    color: black
+}
+.footer{
+	color:grey;
+	background:#f9fafa;
+}
+.footer footer{
+	position: absolute;
+    top: 110%;
+    border-top: 1px solid;
+    width: 100%;
+}
+
+.footer img{
+	height:2vh;
+}
+
+footer .tw a{
+	position: absolute;
+	right:11%;
+}
+
+footer .lik a{
+	position: absolute;
+	right:9.5%;
+}
+
+footer .fbc a{
+	position: absolute;
+	right:8%;
+}
+
+footer .gp a{
+	position: absolute;
+	right:6.5%;
+}
+
+footer .ss a{
+	position: absolute;
+	right:5%;
+}
+
+footer .gh a{
+	position: absolute;
+	right:3.5%;
+}
+
+footer .ems a{
+	position: absolute;
+	right:2%;
+}
